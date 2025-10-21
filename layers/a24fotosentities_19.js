@@ -1,0 +1,28 @@
+var json_a24fotosentities_19 = {
+"type": "FeatureCollection",
+"name": "a24fotosentities_19",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Layer": "0", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPoint", "Linetype": null, "EntityHandle": "20000", "Text": null }, "geometry": { "type": "Point", "coordinates": [ -4.249555555555551, 36.805559166666619 ] } },
+{ "type": "Feature", "properties": { "Layer": "0", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPoint", "Linetype": null, "EntityHandle": "20001", "Text": null }, "geometry": { "type": "Point", "coordinates": [ -4.253304722222226, 36.810533333333296 ] } },
+{ "type": "Feature", "properties": { "Layer": "0", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPoint", "Linetype": null, "EntityHandle": "20002", "Text": null }, "geometry": { "type": "Point", "coordinates": [ -4.253240277777774, 36.810509166666648 ] } },
+{ "type": "Feature", "properties": { "Layer": "0", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPoint", "Linetype": null, "EntityHandle": "20003", "Text": null }, "geometry": { "type": "Point", "coordinates": [ -4.256733611111115, 36.811401944444427 ] } },
+{ "type": "Feature", "properties": { "Layer": "0", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPoint", "Linetype": null, "EntityHandle": "20004", "Text": null }, "geometry": { "type": "Point", "coordinates": [ -4.256618888888893, 36.811340277777788 ] } },
+{ "type": "Feature", "properties": { "Layer": "0", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPoint", "Linetype": null, "EntityHandle": "20005", "Text": null }, "geometry": { "type": "Point", "coordinates": [ -4.257810833333331, 36.812118333333352 ] } },
+{ "type": "Feature", "properties": { "Layer": "0", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPoint", "Linetype": null, "EntityHandle": "20006", "Text": null }, "geometry": { "type": "Point", "coordinates": [ -4.25774722222222, 36.812080833333326 ] } },
+{ "type": "Feature", "properties": { "Layer": "0", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPoint", "Linetype": null, "EntityHandle": "20007", "Text": null }, "geometry": { "type": "Point", "coordinates": [ -4.257716944444442, 36.812070833333351 ] } },
+{ "type": "Feature", "properties": { "Layer": "0", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPoint", "Linetype": null, "EntityHandle": "20008", "Text": null }, "geometry": { "type": "Point", "coordinates": [ -4.257758611111115, 36.812095833333295 ] } },
+{ "type": "Feature", "properties": { "Layer": "0", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPoint", "Linetype": null, "EntityHandle": "20009", "Text": null }, "geometry": { "type": "Point", "coordinates": [ -4.258227777777783, 36.812828888888909 ] } },
+{ "type": "Feature", "properties": { "Layer": "0", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPoint", "Linetype": null, "EntityHandle": "2000A", "Text": null }, "geometry": { "type": "Point", "coordinates": [ -4.258246944444442, 36.81277250000003 ] } },
+{ "type": "Feature", "properties": { "Layer": "0", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPoint", "Linetype": null, "EntityHandle": "2000B", "Text": null }, "geometry": { "type": "Point", "coordinates": [ -4.258235555555559, 36.812777222222238 ] } },
+{ "type": "Feature", "properties": { "Layer": "0", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPoint", "Linetype": null, "EntityHandle": "2000C", "Text": null }, "geometry": { "type": "Point", "coordinates": [ -4.260001111111114, 36.813247500000031 ] } },
+{ "type": "Feature", "properties": { "Layer": "0", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPoint", "Linetype": null, "EntityHandle": "2000D", "Text": null }, "geometry": { "type": "Point", "coordinates": [ -4.259995555555558, 36.813272499999954 ] } },
+{ "type": "Feature", "properties": { "Layer": "0", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPoint", "Linetype": null, "EntityHandle": "2000E", "Text": null }, "geometry": { "type": "Point", "coordinates": [ -4.265182777777777, 36.814589166666671 ] } },
+{ "type": "Feature", "properties": { "Layer": "0", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPoint", "Linetype": null, "EntityHandle": "2000F", "Text": null }, "geometry": { "type": "Point", "coordinates": [ -4.265249166666667, 36.814549722222196 ] } },
+{ "type": "Feature", "properties": { "Layer": "0", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPoint", "Linetype": null, "EntityHandle": "20010", "Text": null }, "geometry": { "type": "Point", "coordinates": [ -4.265226388888887, 36.814590277777761 ] } },
+{ "type": "Feature", "properties": { "Layer": "0", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPoint", "Linetype": null, "EntityHandle": "20011", "Text": null }, "geometry": { "type": "Point", "coordinates": [ -4.26592, 36.814172222222247 ] } },
+{ "type": "Feature", "properties": { "Layer": "0", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPoint", "Linetype": null, "EntityHandle": "20012", "Text": null }, "geometry": { "type": "Point", "coordinates": [ -4.265863333333331, 36.814216944444468 ] } },
+{ "type": "Feature", "properties": { "Layer": "0", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPoint", "Linetype": null, "EntityHandle": "20013", "Text": null }, "geometry": { "type": "Point", "coordinates": [ -4.268329444444449, 36.8142 ] } },
+{ "type": "Feature", "properties": { "Layer": "0", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPoint", "Linetype": null, "EntityHandle": "20014", "Text": null }, "geometry": { "type": "Point", "coordinates": [ -4.267661111111116, 36.808442222222254 ] } }
+]
+}
