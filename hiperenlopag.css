@@ -1,0 +1,223 @@
+body { 
+    margin: 0;
+    padding: 0;
+
+    background: url(FondoCamTorrF1-1.jpg) no-repeat center top;
+    background-size: cover;
+    font-family: sans-serif;
+    height: 100vh;
+
+animation: glitch1 0.05s linear 1/*infinite*/ ;
+animation-delay: 5s;
+	
+}
+
+
+
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+}
+
+
+
+h2{
+    text-align: center;
+    background-color: #000000;
+    color:white;
+    font-family:sans-serif;
+    margin: 0;
+bottom: 0;
+font-size: x-small;    
+    
+}
+
+
+
+
+
+
+
+
+
+@keyframes glitch1 {
+	
+	0% {
+		text-shadow: #ffff /*#b4cf06*/
+		0px 0px,
+		#0d22da 0px 0px;
+	}
+
+
+10% {
+
+background-position: 5px 0;
+filter: hue-rotate(0deg);
+
+}
+
+	20% {
+		text-shadow: #ffff /*#ff0000*/
+		-50px -80px,
+		#60ffff 10px 5px;
+	}
+
+30% {
+
+background-position: -5px 0;
+
+}
+
+
+40% {
+		text-shadow: #ffff /*#ff0000*/
+		-60px -100px,
+		#60ffff 30px 10px;
+	}
+
+
+50% {
+
+background-position: 15px 0;
+
+}
+
+
+
+60% {
+		text-shadow: #ffff /*#ff0000*/
+		-100px -125px,
+		#60ffff 58px 27px;
+	}
+
+
+70% {
+		text-shadow: #ffff /*#ff0000*/
+		-42px -49px,
+		#60ffff 21px 12px;
+	}
+
+
+80% {
+
+background-position: 25px 0;
+
+}
+
+
+90% {
+
+background-position: -50px -20px;
+
+}
+
+	95% {
+		text-shadow: #ffff
+		0px 0px,
+		#0d22da 0px 0px;
+	}
+
+100% {
+		background-position: 0px -px;
+		filter: hue-rotate(360deg);
+	}
+
+}
+
+
+
+
+
+
+.X{
+		position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+	}
+
+.XX{
+	position: relative;	
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+      a{
+            
+    
+           display:block;
+           width: 40%;
+           font-family: sans-serif;
+           font-weight: 500;
+           border-radius: 20px;
+           margin: 0px auto;
+           padding: 20px 40px;
+           background-color: black;
+           color: white;
+           text-decoration: none;
+           text-align: center;
+           object-position: center;
+           z-index: 100; 
+    
+       }
+
+       
+       a:hover{
+           background-color: #ffffff /*transparent*/;
+           border: 2px solid #7A3604;
+           color: #7A3604;
+           transition: 0.7s ease;
+       }
+
+.btn-1 {
+            
+   
+    top: 50%;
+    left: 50%;
+   
+  
+       }
+
+
+
+
+
+
+
+
+
+
+
+h3{
+    text-align: center;
+    background-color: #000000;
+    color:white;
+    font-family:arial;
+    margin: 0;
+    bottom: 0;
+font-size: small;
+}
+
+#particles-js{
+	height: 100vh;
+	width: 100%;
+	position: fixed;
+	z-index: -1;
